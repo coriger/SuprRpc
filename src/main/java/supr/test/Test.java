@@ -32,8 +32,6 @@ public class Test {
         for(byte ci : c){
             System.out.print(ci+" ");
         }
-
-
     }
 
 }
